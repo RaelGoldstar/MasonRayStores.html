@@ -30,9 +30,13 @@ ul {
     text-align: center;
     font-size: x-large;
 }
-
 ul>li {
     border: 3px outset;
     display: inline-block;
     font-size: xx-large;
+}
+img {
+    width: 40%;
+    display: block;
+    margin: auto;
 }
